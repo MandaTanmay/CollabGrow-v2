@@ -1,0 +1,4 @@
+# Favicon ICO - Note: This should be a binary ICO file
+# For development purposes, the SVG and PNG versions are primary
+# Use an online tool or ImageMagick to convert favicon.svg to favicon.ico if needed:
+# convert favicon.svg -define icon:auto-resize=256,128,96,64,48,32,16 favicon.ico

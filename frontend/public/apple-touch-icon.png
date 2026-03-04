@@ -1,0 +1,8 @@
+# Apple Touch Icon (180x180)
+# This should be a PNG file for iOS home screen icons
+# Use the favicon.svg and convert it to a 180x180 PNG using:
+# convert -background white -flatten favicon.svg -resize 180x180 apple-touch-icon.png
+# 
+# Or use an online SVG to PNG converter at:
+# https://convertio.co/svg-png/
+# https://cloudconvert.com/svg-to-png

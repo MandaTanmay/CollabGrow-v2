@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+Sitemap: https://collabgrow.com/sitemap.xml
